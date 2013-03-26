@@ -1,3 +1,5 @@
 .ssh
 .subversion
 *.swp
+.viminfo
+.vim/.netrwhist

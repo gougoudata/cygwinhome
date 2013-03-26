@@ -48,7 +48,7 @@ shopt -s histappend
 #
 # When changing directory small typos can be ignored by bash
 # for example, cd /vr/lgo/apaache would find /var/log/apache
-shopt -s cdspell
+#shopt -s cdspell
 
 # Completion options
 #
@@ -123,6 +123,7 @@ alias pull='git pull'
 alias co='git commit -am'
 alias st='git status'
 alias src='cd /cygdrive/c/Users/jimison/isis.api/'
+alias mercury='cd /cygdrive/c/_src/MERCURY/'
 alias icurl='./icurl.bat'
 alias bounce='./bounce.bat'
 shopt -s nocaseglob

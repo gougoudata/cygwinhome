@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/usr/share/vim/vim73'
-let g:netrw_dirhist_2='/cygdrive/c/Users/jimison/isis-api'
-let g:netrw_dirhist_3='/cygdrive/c/Users/jimison/isis-api/Euromoney.Isis.Configuration'
-let g:netrw_dirhist_4='/cygdrive/c/Users/jimison/isis-api'
